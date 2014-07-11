@@ -11,3 +11,10 @@ handlers:
 - url: /favicon\.ico
   static_files: favicon.ico
   upload: favicon.ico
+  
+  
+twilio_sid: '*****************'
+twilio_token: '**********'
+twilio_from: '********'
+twilio_to: 'Number to send SMS along with ountry code'
+uptime_key: 'u12345-badbeef0123456789'

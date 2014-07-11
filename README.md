@@ -7,7 +7,7 @@ This is built on Google app engine platform using Uptime Robot for monitoring th
 Send me a pull request if you want to add any feature or report any bug!
 
 
-<h3>Note</h3>:
+<h3>Note:</h3>
 
 Windows users may face few problems while running the code. Linux and Mac are preferred!
 

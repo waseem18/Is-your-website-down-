@@ -1,6 +1,7 @@
 Is-your-website-down-?
-=====================
-The aim of this project is to notify registered users with a text message whenever their websites/blogs goes down.
+====================
+This script has been written to help users get a text message whenever their websites/blogs go down!
+
 
 This is built on Google app engine platform using Uptime Robot for monitoring the websites and Twilio for sending messages and making calls.
 
@@ -14,3 +15,5 @@ Windows users may face few problems while running the code. Linux and Mac are pr
 <h3>Future: </h3>
 
 Willing to code a working prototype!
+
+Shoot me a mail if you're interested in developing a working prototype!
